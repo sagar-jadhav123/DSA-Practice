@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSA-Practice",
-      "program": "d:/DSA-Practice/build/Debug/outDebug",
+      "cwd": "d:/DSA-Practice/Leetcode Practice Problem",
+      "program": "d:/DSA-Practice/Leetcode Practice Problem/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
